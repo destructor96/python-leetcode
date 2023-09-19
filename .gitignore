@@ -1,0 +1,5 @@
+# Python Files Ignore
+# Pycharm files ignore
+
+.idea
+/venv
